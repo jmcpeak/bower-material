@@ -17,7 +17,7 @@
       "css": "systemjs/plugin-css@^0.1.9"
     },
     "shim": {
-      "angular-material": {
+      "angular-material-jmcpeak": {
         "deps": [
           "./angular-material.css!"
         ]
