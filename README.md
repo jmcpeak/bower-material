@@ -1,5 +1,5 @@
 This repo is for distribution on `npm` and `bower`. The source for this module is in the
-[main Angular Material repo](https://github.com/angular/material).
+[main Angular Material repo](https://github.com/jmcpeak/material).
 Please file issues and pull requests against that repo.
 
 ## Installing Angular Material
@@ -16,7 +16,7 @@ npm install angular-material
 npm install angular-material --save
 
 # To install from HEAD of master
-npm install http://github.com/angular/bower-material/tarball/master
+npm install http://github.com/jmcpeak/bower-material/tarball/master
 
 # To view all installed package 
 npm list;
@@ -29,7 +29,7 @@ npm list;
 jspm install angular-material;
 
 # To install from HEAD of master
-jspm install angular-material=github:angular/bower-material@master;
+jspm install angular-material=github:jmcpeak/bower-material@master;
 
 # To view all installed package versions
 jspm inspect;
@@ -41,13 +41,13 @@ Now you can use `require('angular-material')` when installing with npm or jsmp a
 
 ```shell
 # To get the latest stable version, use bower from the command line.
-bower install angular-material
+bower install angular-material-jmcpeak
 
 # To get the most recent, last committed-to-master version use:
-bower install angular-material#master
+bower install angular-material-jmcpeak#master
 
 # To save the bower settings for future use:
-bower install angular-material --save
+bower install angular-material-jmcpeak --save
 
 # Later, you can use easily update with:
 bower update

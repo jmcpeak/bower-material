@@ -1,6 +1,6 @@
 {
-  "name": "angular-material",
-  "version": "0.10.1-rc5-master-17676e6",
+  "name": "angular-material-jmcpeak",
+  "version": "0.1.0",
   "main": "index",
   "format": "cjs",
   "registry": "github",
@@ -28,12 +28,12 @@
   "homepage": "https://material.angularjs.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/material.git"
+    "url": "git://github.com/jmcpeak/material.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/angular/material/blob/master/LICENSE"
+      "url": "https://github.com/jmcpeak/material/blob/master/LICENSE"
     }
   ],
   "keywords": [
@@ -43,6 +43,6 @@
     "client-side"
   ],
   "bugs": {
-    "url": "https://github.com/angular/material/issues"
+    "url": "https://github.com/jmcpeak/material/issues"
   }
 }
